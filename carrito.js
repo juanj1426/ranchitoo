@@ -2,7 +2,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     // CAMBIA ESTE NÚMERO POR EL WHATSAPP DEL RESTAURANTE.
     // Colombia: 57 + número de celular, sin espacios ni signos.
-    const WHATSAPP_RANCHO = "573015092315";
+    const WHATSAPP_RANCHO = "573103193802";
 
     const $ = (id) => document.getElementById(id);
     const panel = $("cartPanel");
